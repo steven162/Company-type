@@ -1,0 +1,2 @@
+# Company-type
+Company type
